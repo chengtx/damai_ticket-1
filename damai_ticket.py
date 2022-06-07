@@ -1,4 +1,3 @@
-# coding: utf-8
 from json import loads
 from time import sleep, time
 from pickle import dump, load

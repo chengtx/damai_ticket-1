@@ -1,11 +1,11 @@
-﻿{
-    "date": [2],
+{
+    "date": [1],
     "sess": [1],
-    "price": [2, 3, 1],
-    "real_name": [1, 2],
-    "nick_name": "",
+    "price": [1, 2, 3],
+    "real_name": [2],
+    "nick_name": "庭庭",
     "ticket_num": 1,
-    "driver_path": "",
+    "driver_path": "/Users/ticheng/Downloads/chromedriver",
     "damai_url": "https://www.damai.cn/",
-    "target_url": ""
+    "target_url": "https://detail.damai.cn/item.htm?id=673538049708"
 }
